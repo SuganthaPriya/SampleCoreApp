@@ -10,7 +10,6 @@ D:\InformaDocx\SampleCoreApp\SampleCoreApp\bin\Debug\netcoreapp3.1\SampleCoreApp
 D:\InformaDocx\SampleCoreApp\SampleCoreApp\obj\Debug\netcoreapp3.1\SampleCoreApp.csprojAssemblyReference.cache
 D:\InformaDocx\SampleCoreApp\SampleCoreApp\obj\Debug\netcoreapp3.1\staticwebassets\SampleCoreApp.StaticWebAssets.Manifest.cache
 D:\InformaDocx\SampleCoreApp\SampleCoreApp\obj\Debug\netcoreapp3.1\staticwebassets\SampleCoreApp.StaticWebAssets.xml
-D:\InformaDocx\SampleCoreApp\SampleCoreApp\obj\Debug\netcoreapp3.1\SampleCoreApp.MvcApplicationPartsAssemblyInfo.cache
 D:\InformaDocx\SampleCoreApp\SampleCoreApp\obj\Debug\netcoreapp3.1\SampleCoreApp.AssemblyInfoInputs.cache
 D:\InformaDocx\SampleCoreApp\SampleCoreApp\obj\Debug\netcoreapp3.1\SampleCoreApp.AssemblyInfo.cs
 D:\InformaDocx\SampleCoreApp\SampleCoreApp\obj\Debug\netcoreapp3.1\SampleCoreApp.RazorTargetAssemblyInfo.cache
